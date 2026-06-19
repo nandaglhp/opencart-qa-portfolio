@@ -30,3 +30,51 @@ This portfolio grows over time, from manual testing foundations to automation an
 ---
 
 ## 📁 Repository Structure
+
+```
+opencart-qa-portfolio/
+├── manual-testing/
+│   ├── test-plan.md
+│   ├── test-cases/
+│   │   └── TC_001_user-registration.md
+│   ├── bug-reports/
+│   │   └── BUG_001_example.md
+│   └── test-summary-report.md
+├── api-testing/
+├── automation/
+├── performance-testing/
+└── security-testing/
+```
+
+---
+
+## 🧪 Testing Coverage (Phase 1 — Manual)
+
+| Module | Test Cases | Bugs Found | Status |
+|---|---|---|---|
+| User Registration | - | - | 🟡 In Progress |
+| Login & Authentication | - | - | ⬜ Upcoming |
+| Product Search & Filter | - | - | ⬜ Upcoming |
+| Shopping Cart | - | - | ⬜ Upcoming |
+| Checkout Flow | - | - | ⬜ Upcoming |
+| User Account | - | - | ⬜ Upcoming |
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Test Management | Google Sheets, GitHub |
+| Bug Tracking | GitHub Issues |
+| API Testing | Postman *(coming soon)* |
+| Automation | Playwright *(coming soon)* |
+| Performance | k6 *(coming soon)* |
+| Security | OWASP ZAP *(coming soon)* |
+
+---
+
+## 📬 Contact
+
+- LinkedIn: [linkedin.com/in/nandaglhp](https://linkedin.com/in/nandaglhp)
+- Email: nandaglhp@gmail.com
